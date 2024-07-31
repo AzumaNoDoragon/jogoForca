@@ -26,4 +26,4 @@ Este é um jogo da forca implementado em Python, onde o jogador tenta adivinhar 
 4. Execute o script:
 
    ```sh
-   python forca.py
+   python jogoForca.py
