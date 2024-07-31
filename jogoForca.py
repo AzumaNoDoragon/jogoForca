@@ -84,12 +84,14 @@ partesForca = [
 num = random.randrange(1, 110)
 erro = 0
 letras_erradas = []
+dicaErro = int(len(partesForca) / 2)
 
 with open('palavras.txt', 'r', encoding='utf-8') as file:
     palavra = file.readlines()
-    linha = palavra[num].strip().split(" - ", 1)
+    linha = palavra[num].strip().split(" - ", 2)
     palavra = linha[0].lower()
     tema = linha[1]
+    dica = linha[2]
 
 print(f'Palavra: {palavra}, Tema: {tema}')
 letras_adivinhadas = set()
@@ -97,7 +99,7 @@ letras_erradas = set()
 
 while erro < len(partesForca) - 1:
     os.system('cls')
-    print(tema, partesForca[erro])
+    print(tema, " - ", dica if erro >= dicaErro else f"Outra dica depois de {dicaErro} erros", partesForca[erro])
     for letra in palavra:
         if letra in letras_adivinhadas or letra == ' ':
             print(letra, end=' ')

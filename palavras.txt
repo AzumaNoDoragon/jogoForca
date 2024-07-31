@@ -1,110 +1,110 @@
-Amarelo - Cores
-Azul - Cores
-Vermelho - Cores
-Verde - Cores
-Roxo - Cores
-Rosa - Cores
-Marrom - Cores
-Cinza - Cores
-Preto - Cores
-Branco - Cores
-Carro - Transporte
-Trem - Transporte
-Avião - Transporte
-Navio - Transporte
-Helicóptero - Transporte
-Elefante - Animais
-Coelho - Animais
-Golfinho - Animais
-Gato - Animais
-Cachorro - Animais
-Tubarão - Animais
-Cavalo - Animais
-Leão - Animais
-Tigre - Animais
-Jacaré - Animais
-Futebol - Esportes
-Basquete - Esportes
-Vôlei - Esportes
-Hóquei - Esportes
-Rugby - Esportes
-Instrumento - Esportes
-Violão - Instrumentos Musicais
-Piano - Instrumentos Musicais
-Flauta - Instrumentos Musicais
-Violino - Instrumentos Musicais
-Trompete - Instrumentos Musicais
-Tambor - Instrumentos Musicais
-Guitarra - Instrumentos Musicais
-Saxofone - Instrumentos Musicais
-Clarinete - Instrumentos Musicais
-Harpa - Instrumentos Musicais
-Borboleta - Insetos
-Aranha - Insetos
-Besouro - Insetos
-Grilo - Insetos
-Abelha - Insetos
-Tênis - Calçados
-Sandália - Calçados
-Botas - Calçados
-Chinelos - Calçados
-Sapatos - Calçados
-Lua - Astronomia
-Estrela - Astronomia
-Planeta - Astronomia
-Galáxia - Astronomia
-Cometa - Astronomia
-Maçã - Frutas
-Laranja - Frutas
-Pêra - Frutas
-Uva - Frutas
-Abacaxi - Frutas
-Kiwi - Frutas
-Cereja - Frutas
-Morango - Frutas
-Melancia - Frutas
-Espelho - Objetos
-Relógio - Objetos
-Livro - Objetos
-Janela - Objetos
-Mesa - Objetos
-Revista - Objetos
-Jornal - Objetos
-Dicionário - Objetos
-Lâmpada - Objetos
-Cadeira - Objetos
-Enciclopédia - Objetos
-Pirâmide - Construções
-Catedral - Construções
-Castelo - Construções
-Torre - Construções
-Fortaleza - Construções
-Óculos - Acessórios
-Colar - Acessórios
-Anel - Acessórios
-Pulseira - Acessórios
-Deserto - Geografia
-Montanha - Geografia
-Floresta - Geografia
-Ilha - Geografia
-Vulcão - Geografia
-Chocolate - Alimentos
-Biscoito - Alimentos
-Pão - Alimentos
-Sorvete - Alimentos
-Pizza - Alimentos
-Cinema - Entretenimento
-Teatro - Entretenimento
-Ópera - Entretenimento
-Concerto - Entretenimento
-Circo - Entretenimento
-Balanço - Brinquedos
-Patinete - Brinquedos
-Bicicleta - Brinquedos
-Patins - Brinquedos
-Boneca - Brinquedos
-Nuvem - Clima
-Neve - Clima
-Chuva - Clima
-Granizo - Clima
-Vendaval - Clima
+Amarelo - Cores - Girasol
+Azul - Cores - Oceano
+Vermelho - Cores - Ferrari
+Verde - Cores - Alface
+Roxo - Cores - Ametista
+Rosa - Cores - Flamingo
+Marrom - Cores - Café
+Cinza - Cores - Pedra
+Preto - Cores - Espaço
+Branco - Cores - Neve
+Carro - Transporte - Estrada
+Trem - Transporte - Trilho
+Avião - Transporte - Aeroporto
+Navio - Transporte - Porto
+Helicóptero - Transporte - Heliponto
+Elefante - Animais - Tromba
+Coelho - Animais - Cenoura
+Golfinho - Animais - Saltos
+Gato - Animais - Bigodes
+Cachorro - Animais - Latido
+Tubarão - Animais - Mandíbula
+Cavalo - Animais - Crina
+Leão - Animais - Rugido
+Tigre - Animais - Listras
+Jacaré - Animais - Dentes
+Futebol - Esportes - Campo
+Basquete - Esportes - Drible
+Vôlei - Esportes - Bloqueio
+Hóquei - Esportes - Gelo
+Rugby - Esportes - Mauls
+Violão - Instrumentos Musicais - Dedilhado
+Piano - Instrumentos Musicais - Pedal
+Flauta - Instrumentos Musicais - Tubo
+Violino - Instrumentos Musicais - Cravelha
+Trompete - Instrumentos Musicais - Músico
+Tambor - Instrumentos Musicais - Pele
+Guitarra - Instrumentos Musicais - Amplificador
+Saxofone - Instrumentos Musicais - Chave
+Clarinete - Instrumentos Musicais - Palheta
+Harpa - Instrumentos Musicais - Arpa
+Borboleta - Insetos - Metamorfose
+Aranha - Insetos - Oito pernas
+Besouro - Insetos - Casca dura
+Grilo - Insetos - Canto
+Abelha - Insetos - Polinização
+Tênis - Calçados - Solado
+Sandália - Calçados - Tirantes
+Botas - Calçados - Cano alto
+Chinelos - Calçados - Palmilha
+Sapatos - Calçados - Laço
+Lua - Astronomia - Crateras
+Estrela - Astronomia - Constelação
+Planeta - Astronomia - Anéis
+Galáxia - Astronomia - Espiral
+Cometa - Astronomia - Cauda
+Maçã - Frutas - Polpa
+Laranja - Frutas - Casca
+Pêra - Frutas - Forma
+Uva - Frutas - Sementes
+Abacaxi - Frutas - Espinhos
+Kiwi - Frutas - Casca marrom
+Cereja - Frutas - Caroço
+Morango - Frutas - Sementes externas
+Melancia - Frutas - Verde por fora
+Espelho - Objetos - Reflexão
+Relógio - Objetos - Ponteiros
+Livro - Objetos - Capa
+Janela - Objetos - Abertura
+Mesa - Objetos - Apoio
+Revista - Objetos - Periodicidade
+Jornal - Objetos - Manchete
+Dicionário - Objetos - Volume
+Lâmpada - Objetos - Filamento
+Cadeira - Objetos - Encosto
+Enciclopédia - Objetos - Artigos
+Pirâmide - Construções - Antigo Egito
+Catedral - Construções - Vitral
+Castelo - Construções - Muralha
+Torre - Construções - Sino
+Fortaleza - Construções - Baluarte
+Óculos - Acessórios - Lentes
+Colar - Acessórios - Joia
+Anel - Acessórios - Metal
+Pulseira - Acessórios - Bracelete
+Deserto - Geografia - Dunas
+Montanha - Geografia - Pico
+Floresta - Geografia - Sombra
+Ilha - Geografia - Isolada
+Vulcão - Geografia - Erupção
+Chocolate - Alimentos - Cacau
+Biscoito - Alimentos - Assado
+Pão - Alimentos - Fermentação
+Sorvete - Alimentos - Creme
+Pizza - Alimentos - Queijo
+Cinema - Entretenimento - Tela
+Teatro - Entretenimento - Atuação
+Ópera - Entretenimento - Cena
+Concerto - Entretenimento - Música ao vivo
+Circo - Entretenimento - Acrobacia
+Balanço - Brinquedos - Movimento
+Patinete - Brinquedos - Manoplas
+Bicicleta - Brinquedos - Pedal
+Patins - Brinquedos - Rodas
+Boneca - Brinquedos - Brinquedo de criança
+Nuvem - Clima - Flutuante
+Neve - Clima - Frio
+Chuva - Clima - Gotejamento
+Granizo - Clima - Pedras
+Vendaval - Clima - Tempestade
+Nublado - Clima - Cobertura
